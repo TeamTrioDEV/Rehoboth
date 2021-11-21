@@ -452,11 +452,12 @@ section {
 #about .about-title {
   color: #333;
   font-weight: 700;
-  font-size: 28px;
+  font-size: 32px;
 }
 #about .about-text {
-  line-height: 26px;
+  line-height: 30px;
   margin-bottom: 15px;
+  font-size: 18px;
 }
 #about .about-text:last-child {
   margin-bottom: 0;
