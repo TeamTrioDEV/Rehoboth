@@ -465,7 +465,7 @@ section {
 
 /* Services Section
 --------------------------------*/
-#services {
+/* #services {
   background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../img/services-bg.jpg") fixed center center;
   background-size: cover;
   padding: 80px 0 60px 0;
@@ -508,7 +508,7 @@ section {
 #services .service-description {
   margin-left: 80px;
   line-height: 24px;
-}
+} */
 
 /* Subscribe Section
 --------------------------------*/
@@ -674,51 +674,51 @@ section {
   padding: 0;
 }
 
-/* Testimonials Section
+/*Services Section
 --------------------------------*/
-#testimonials {
-  background: #f6f6f6;
+#services {
+  background: #ffffff;
   padding: 80px 0;
 }
-#testimonials .profile {
+#services .profile {
   text-align: center;
 }
-#testimonials .profile .pic {
+#services .profile .pic {
   border-radius: 50%;
-  border: 6px solid #fff;
+  border: 6px solid rgb(17, 17, 17);
   margin-bottom: 15px;
   overflow: hidden;
   height: 260px;
   width: 260px;
 }
-#testimonials .profile .pic img {
+#services .profile .pic img {
   max-width: 100%;
 }
-#testimonials .profile h4 {
+#services .profile h4 {
   font-weight: 700;
   color: #03C4EB;
   margin-bottom: 5px;
 }
-#testimonials .profile span {
-  color: #333333;
+#services .profile span {
+  color: #ffffff;
 }
-#testimonials .quote {
+#services .quote {
   position: relative;
-  background: #fff;
+  background: rgb(255, 254, 254);
   padding: 60px;
   margin-top: 40px;
   font-size: 16px;
   font-style: italic;
   border-radius: 5px;
 }
-#testimonials .quote b {
+#services .quote b {
   display: inline-block;
   font-size: 22px;
   left: -9px;
   position: relative;
   top: -8px;
 }
-#testimonials .quote small {
+#services .quote small {
   display: inline-block;
   right: -9px;
   position: relative;
