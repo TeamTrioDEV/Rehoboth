@@ -1,9 +1,3 @@
-/**
-* Template Name: Imperial - v5.6.1
-* Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -457,7 +451,7 @@ section {
 #about .about-text {
   line-height: 30px;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 16px;
 }
 #about .about-text:last-child {
   margin-bottom: 0;
@@ -724,47 +718,6 @@ section {
   right: -9px;
   position: relative;
   top: 4px;
-}
-
-/* Team Section
---------------------------------*/
-#team {
-  background: #fff;
-  padding: 80px 0 60px 0;
-}
-#team .member {
-  text-align: center;
-  margin-bottom: 20px;
-}
-#team .member .pic {
-  margin-bottom: 15px;
-  overflow: hidden;
-  height: 260px;
-}
-#team .member .pic img {
-  max-width: 100%;
-}
-#team .member h4 {
-  font-weight: 700;
-  margin-bottom: 2px;
-}
-#team .member span {
-  font-style: italic;
-  display: block;
-  font-size: 13px;
-}
-#team .member .social {
-  margin-top: 15px;
-}
-#team .member .social a {
-  color: #b3b3b3;
-}
-#team .member .social a:hover {
-  color: #03C4EB;
-}
-#team .member .social i {
-  font-size: 18px;
-  margin: 0 2px;
 }
 
 /* Contact Section
