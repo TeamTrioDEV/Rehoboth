@@ -866,3 +866,18 @@ section {
   font-size: 13px;
   color: #ccc;
 }
+
+.portfolio-item .item {
+  /*width:303px;*/
+  float: left;
+  margin-bottom: 10px;
+}
+
+.img-container {
+  margin: 5px;
+  padding: 5px;
+  height: auto;
+  width: auto;
+  float: left;
+  text-align: center;
+}
