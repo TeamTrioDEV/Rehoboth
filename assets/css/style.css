@@ -884,3 +884,8 @@ section {
   float: left;
   text-align: center;
 }
+
+
+#texto {
+  font-weight: bold;
+}
