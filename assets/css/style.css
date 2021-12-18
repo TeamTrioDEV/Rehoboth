@@ -756,8 +756,8 @@ section {
 }
 
 #services .text {
-  background-color: #73c9d4;
-  color: white;
+  background-color: #03C4EB;
+  color: rgb(0, 0, 0);
   font-size: 16px;
   padding: 16px 32px;
 }
